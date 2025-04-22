@@ -40,7 +40,6 @@ public class Table
         {
             TotalCost += dish.Price;
         }
-
         return TotalCost;
     }
     public bool HasOrders()
